@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="aff_1">You look great today!</string>
+    <string name="aff_2">Have you lost weight?</string>
+    <string name="aff_3">Wow, that was a brilliant point!</string>
+    <string name="aff_4">OMG you are SO smart</string>
+    <string name="aff_5">Yes, you are exactly right!</string>
+    <string name="aff_6">You are so pretty</string>
+    <string name="aff_7">That colour looks great on you!</string>
+    <string name="aff_8">You are just the sweetest!</string>
+    <string name="aff_9">I\'ve learnt so much from you</string>
+    <string name="aff_10">Thank you for being so kind</string>
+</resources>
